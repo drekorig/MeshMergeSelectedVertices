@@ -23,7 +23,7 @@ class MeshMergeSelectedVertices(Operator):
         name="Axis",
         description="Axis to merge on",
         items=axis_items,
-        default=0,
+        default='X',
     )
     # Threshold for merging
     threshold: bpy.props.FloatProperty(
