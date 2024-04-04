@@ -10,7 +10,7 @@ bl_info = {
     "doc_url": "https://github.com/drekorig/MeshMergeSelectedVertices",
 }
 
-from addon import MeshMergeSelectedVertices
+from .addon import MeshMergeSelectedVertices
 
 # Plugin registration
 
