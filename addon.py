@@ -1,16 +1,3 @@
-bl_info = {
-    "name": "Merge Selected Vertices",
-    "author": "Drekorig",
-    "version": (1, 0),
-    "blender": (2, 80, 0),
-    "category": "Mesh Editing",
-    "location": "Mesh > Merge Selected",
-    "description": "Addon for merging vertices in mesh editing.",
-    "warning": "",
-    "doc_url": "https://github.com/drekorig/MeshMergeSelectedVertices",
-}
-
-
 import bmesh
 import bpy
 from mathutils import Vector
