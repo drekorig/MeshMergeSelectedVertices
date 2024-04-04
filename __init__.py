@@ -11,7 +11,7 @@ bl_info = {
 }
 
 import bpy
-from .addon import MeshMergeSelectedVertices
+from .mesh_merge_selected_vertices import MeshMergeSelectedVertices
 
 # Plugin registration
 
