@@ -1,4 +1,4 @@
-# Addon Merge Selected Vertices
+# Blender 3D addon : Merge Selected Vertices
 
 ## Overview
 The Merge Selected Vertices addon enables you to merge selected vertices within Blender. It provides options to specify the axis and direction for merging the vertices.
