@@ -1,0 +1,7 @@
+Name: Merge Selected Vertices
+Version: 1.0
+Author: drekorig
+Description: This addon adds a vertex merging functionality in Blender's Edit mode.
+Instructions: Select the vertices you wish to merge, then use the addon to merge the selected vertices.
+Changelog:
+- Version 1.0: Initial release of the addon.
